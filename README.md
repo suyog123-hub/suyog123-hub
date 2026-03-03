@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arjun Bhattarai</h1>
+<h1 align="center">Hi 👋, I'm Suyog Khadka</h1>
 <h3 align="center">A Passionate Web Developer from Nepal 🇳🇵</h3>
 
 <p align="center">
   🌱 Learning every day &nbsp; | &nbsp;
-  🚀 Building impactful projects &nbsp; | &nbsp;
+  🚀 Building impactful django projects &nbsp; | &nbsp;
   🎯 Focused on growth
 </p>
 
@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on real-time web and AI-based projects  
-- 🌐 Explore my work: **https://yourportfolio.com**  
-- 📫 Reach me at: **yourmail@gmail.com**  
+- 🔭 I’m currently working on full-stack web development 
+- 🌐 Explore my work: **https://bphotel.pythonanywhere.com**  
+- 📫 Reach me at: **ksuyog697@gmail.com*  
 - 📄 View my resume: [Click Here](#)  
 - ⚡ Fun fact: I may be lazy, but I automate everything I can 😄  
 
@@ -22,10 +22,10 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:ksuyog697@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/suyog-khadka-018985323/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com">
@@ -38,27 +38,17 @@
 ### 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,django,bootstrap,postgres,git,github,vscode,postman" />
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🔹 Vehicle Rental System  
-- 🔹 Blog with Django  
-- 🔹 Flask To-Do App  
-- 🔹 Simple Interest Calculator  
+- 🔹 **https://bphotel.pythonanywhere.com**  
+- 🔹 **https://suyogapi.pythonanywhere.com**  
 
 ---
 
