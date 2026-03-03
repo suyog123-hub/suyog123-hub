@@ -1,75 +1,65 @@
-# 👋 Hi, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Arjun Bhattarai</h1>
+<h3 align="center">A Passionate Web Developer from Nepal 🇳🇵</h3>
 
-🎓 Passionate Developer | 💻 Full-Stack Learner | 🚀 Problem Solver  
-
-Welcome to my GitHub profile!  
-I am a dedicated developer who enjoys building clean, efficient, and scalable applications. I love debugging, solving logical problems, and continuously learning new technologies.
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on: Web Development Projects  
-- 🌱 Currently learning: Advanced Backend Development & System Design  
-- 💡 Interested in: Full-Stack Development, Databases, and Clean Code  
-- 🛠️ Strong interest in debugging and optimizing applications  
-- 🎯 Goal: Become a professional Software Engineer  
+<p align="center">
+  🌱 Learning every day &nbsp; | &nbsp;
+  🚀 Building impactful projects &nbsp; | &nbsp;
+  🎯 Focused on growth
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### 💻 Programming Languages
-- Python  
-- Java  
-- JavaScript  
-- SQL  
-
-### 🌐 Web Technologies
-- HTML  
-- CSS  
-- Bootstrap  
-- Django  
-- Servlets & JSP  
-
-### 🗄️ Databases
-- MySQL  
-- SQLite  
-
-### 🔧 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Postman  
+- 🔭 I’m currently working on real-time web and AI-based projects  
+- 🌐 Explore my work: **https://yourportfolio.com**  
+- 📫 Reach me at: **yourmail@gmail.com**  
+- 📄 View my resume: [Click Here](#)  
+- ⚡ Fun fact: I may be lazy, but I automate everything I can 😄  
 
 ---
 
-## 📌 Projects
+### 🌐 Connect with Me
 
-### 🚗 Vehicle Rental System
-Frontend project built using HTML and CSS.
-
-### 💰 Simple Interest Calculator
-Built using HTML forms and Java Servlet.
-
-### 📝 Palindrome Checker
-Java Servlet application that checks whether input string is palindrome.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🛠 Languages & Tools
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- Email: your.email@example.com  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,bootstrap,mysql,git,github,vscode" />
+</p>
 
 ---
 
-⭐️ From [Your Name]
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🔹 Vehicle Rental System  
+- 🔹 Blog with Django  
+- 🔹 Flask To-Do App  
+- 🔹 Simple Interest Calculator  
+
+---
+
+<h3 align="center">🚀 Let's build something amazing together!</h3>
