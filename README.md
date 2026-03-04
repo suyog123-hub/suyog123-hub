@@ -12,10 +12,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on full-stack web development 
-- 🌐 Explore my work: **https://bphotel.pythonanywhere.com**  
+- 🌐 Explore my work: **https://bphotel.pythonanywhere.com**
 - 📫 Reach me at: **ksuyog697@gmail.com*  
 - 📄 View my resume: [Click Here](#)  
-- ⚡ Fun fact: I may be lazy, but I automate everything I can 😄  
+
 
 ---
 
