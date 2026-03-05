@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on full-stack web development 
 - 🌐 Explore my work: **https://bphotel.pythonanywhere.com**
 - 📫 Reach me at: **ksuyog697@gmail.com*  
-- 📄 View my resume: [Click Here](#)  
+- 📄 View my resume: [](#)  
 
 
 ---
