@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suyog Khadka</h1>
+<h1 align="center">Hi 👋, I'm Suyog Khadk</h1>
 <h3 align="center">A Passionate Web Developer from Nepal 🇳🇵</h3>
 
 <p align="center">
