@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/suyog-khadka-018985323/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://suyogkhadka.pythonanywhere.com">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
