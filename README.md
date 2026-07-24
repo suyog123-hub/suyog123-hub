@@ -12,10 +12,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on full-stack web development 
-- 🌐 Explore my work: **https://suyogkhadka.pythonanywhere.com**
-- 📫 Reach me at: **ksuyog697@gmail.com*  
-- 📄 View my resume: [](#)  
-
+- 🌐 Explore my work: **https://suyogkhadak.onrender.com/**
+- 📫 Reach me at: **ksuyog049@gmail.com*  
 
 ---
 
