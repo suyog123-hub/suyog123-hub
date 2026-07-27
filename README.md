@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on full-stack web development 
-- 🌐 Explore my work: **https://suyogkhadak.onrender.com/**
+- 🌐 Explore my work: **https://suyogkhadak.onrender.com**
 - 📫 Reach me at: **ksuyog049@gmail.com*  
 
 ---
