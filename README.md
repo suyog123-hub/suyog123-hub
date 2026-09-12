@@ -1,6 +1,7 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/suyog123-hub.svg" />
-    <img src="https://gitascii.com/suyog123-hub.svg" alt="Suyog" width="800" />
-  </picture>
-</p>
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/suyog123-hub?v=1789196631312"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
