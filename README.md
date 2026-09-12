@@ -3,7 +3,7 @@
     <img
       src="readme.png"
       alt="GitAscii Widget"
-      width="650"
+      width="900"
       style="max-width: 100%; height: auto;"
     />
   </a>
