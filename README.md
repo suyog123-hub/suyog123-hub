@@ -1,7 +1,10 @@
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/suyog123-hub?v=1789196807561"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+<p align="center">
+  <a href="https://gitascii.com">
+    <img
+      src="readme.png"
+      alt="GitAscii Widget"
+      width="650"
+      style="max-width: 100%; height: auto;"
+    />
+  </a>
+</p>
